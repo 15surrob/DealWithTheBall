@@ -1,0 +1,22 @@
+{
+  "name": "dealwiththeball",
+  "version": "1.0.0",
+  "description": "learning java script by dealing with the ball",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/15surrob/DealWithTheBall.git"
+  },
+  "author": "robyn",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/15surrob/DealWithTheBall/issues"
+  },
+  "homepage": "https://github.com/15surrob/DealWithTheBall#readme",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
